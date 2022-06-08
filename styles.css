@@ -13,9 +13,8 @@ html {
 
 body {
 	font-family: 'Press Start 2P', sans-serif;
-	color: #eee;
-	background-color: #222;
-	/* background-color: #60b347; */
+	background-color: #393e46;
+	background-image: -webkit-linear-gradient(80deg, #222831 50%, #393e46 50%);
 }
 
 /* LAYOUT */
@@ -54,6 +53,7 @@ h1 {
 	top: 52%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+	color: yellowgreen;
 }
 
 .number {
@@ -74,6 +74,7 @@ h1 {
 	position: absolute;
 	top: 2rem;
 	right: 2rem;
+	color: yellowgreen;
 }
 
 .again {
